@@ -197,13 +197,3 @@ Time Taken:         15.0 sec
 | App opens then crashes | Run from Qt Creator in Debug mode; check QProcess exit code |
 
 ---
-
-## Grading Checklist
-
-- [x] GUI implemented in Qt Widgets (C++)
-- [x] Core logic in x86-64 NASM Assembly
-- [x] Assembly performs: character comparison, correct count, incorrect count, total count, word count
-- [x] Qt handles: timer, accuracy calculation, WPM calculation, result display
-- [x] Communication via temp files (Option A — recommended)
-- [x] Runs on Windows 11
-- [x] No Python / WebAssembly / WSL / networking dependencies
